@@ -1,1 +1,6 @@
-
+{
+  "version": "0.1.0",
+  "version_code": 1,
+  "apk_url": "https://github.com/shadow-husky/pokematch-release/releases/download/v0.1.0/Poke-Match-V0.1.0.apk",
+  "notes": "Initial PokéMatch Android test release."
+}
